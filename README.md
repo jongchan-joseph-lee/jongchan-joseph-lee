@@ -9,7 +9,7 @@ Underwater Acoustic Engineer (수중음향 시스템 엔지니어) · ㈜지오�
 바다 속 소리로 해양생물과 해양환경을 이해하는 연구를 합니다.
 Passive Acoustic Monitoring(PAM, 수동음향 모니터링)을 중심으로 하이드로폰 계측부터 신호처리, AI 기반 탐지 · 분류, 시스템 통합과 현장 운용까지 다뤄 왔습니다.
 
-**웹사이트 (프로필 · 프로젝트 · 논문): [jongchan-joseph-lee.github.io/jlee_blog](https://jongchan-joseph-lee.github.io/blog/)**
+**웹사이트 (프로필 · 프로젝트 · 논문): [jongchan-joseph-lee.github.io/blog](https://jongchan-joseph-lee.github.io/blog/)**
 
 #### Open research (공개 연구)
 
