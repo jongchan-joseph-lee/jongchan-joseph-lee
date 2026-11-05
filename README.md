@@ -4,7 +4,7 @@
 
 ### 이종찬 Jongchan Lee
 
-Underwater Acoustics(수중음향) 연구자 · ㈜지오시스템리서치 시스템개발부 전임연구원
+Underwater Acoustics(수중음향) 연구자 · ㈜지오시스템리서치 시스템개발부 전임연구원(2022.05 - 현재)
 
 바다 속 소리로 해양생물과 해양환경을 이해하는 연구를 합니다.
 Passive Acoustic Monitoring(PAM, 수동음향 모니터링)을 중심으로 하이드로폰 계측부터 신호처리, AI 기반 탐지 · 분류, 시스템 통합과 현장 운용까지 다뤄 왔습니다.
