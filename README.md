@@ -2,6 +2,8 @@
   <img src="banner.jpg" alt="Watkins Marine Mammal Sound Database 실제 녹음 스펙트로그램과 신호별 dur90, f50, fpeak, BW−3dB 주석" width="100%">
 </a>
 
+<sub>배너: Watkins Marine Mammal Sound Database(WHOI) 실제 녹음으로 만든 스펙트로그램.</sub>
+
 ### 이종찬 Jongchan Lee
 
 Underwater Acoustic Engineer (수중음향 시스템 엔지니어) · ㈜지오시스템리서치 시스템개발부 전임연구원(2022.05 - 현재)
@@ -26,4 +28,3 @@ Passive Acoustic Monitoring(PAM, 수동음향 모니터링)을 중심으로 하�
 [ResearchGate](https://www.researchgate.net/profile/Jongchan-Lee-11) ·
 [Email](mailto:chani3218@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/jongchan-lee-143047230/)
-<sub>배너: Watkins Marine Mammal Sound Database(WHOI) 실제 녹음으로 만든 스펙트로그램. 측정 방법은 웹사이트의 "자료와 측정 방법" 참고.</sub>
