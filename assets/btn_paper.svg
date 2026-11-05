@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142 30" width="142" height="30">
+  <rect x="0.75" y="0.75" width="140.5" height="28.5" rx="14.25" fill="none" stroke="#8b949e" stroke-width="1.2"/>
+  <g transform="translate(13 6) scale(0.75)" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4"/><path d="M9 12h6M9 15.5h6M9 9h3"/></g>
+  <text x="40" y="19.6" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" textLength="88" lengthAdjust="spacingAndGlyphs">ResearchGate</text>
+</svg>
