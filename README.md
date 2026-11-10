@@ -72,24 +72,24 @@
 
 <p align="center"><sub>Python · Julia · MATLAB · Java · Cython · PyTorch</sub></p>
 
-### Open research (공⁠개 연⁠구)
+### Side Projects (사⁠이⁠드 프⁠로⁠젝⁠트)
 
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/marine-mammal-classifier-benchmark"><img src="assets/pam.svg" width="56" height="56" alt="수동음향 프로젝트"></a><br>
-      <b>Marine mammal classifier</b><br>
-      <sub>녹⁠음 출⁠처 분⁠리 평⁠가⁠에⁠서 종 분⁠류 BA 0.64–0.76 → 0.21–0.33</sub>
+      <b>Marine Mammal Sound Classification Benchmark</b><br>
+      <sub>AST · VGGish · EfficientNet-B3<br>PyTorch · Transformers · scikit-learn</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/sss-mine-detection-benchmark"><img src="assets/sss.svg" width="56" height="56" alt="측면주사 소나 프로젝트"></a><br>
-      <b>Side-scan sonar MLO</b><br>
-      <sub>미⁠학⁠습 연⁠도 기⁠뢰⁠유⁠사⁠물⁠체 탐⁠지, 크⁠기 맞⁠춤 증⁠강 Pd +13%p</sub>
+      <b>Side-Scan Sonar Mine Detection Benchmark</b><br>
+      <sub>YOLOv8 · RT-DETR · DINOv2<br>PyTorch · Ultralytics · scikit-learn</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/SAS_signal_processing"><img src="assets/sas.svg" width="56" height="56" alt="합성개구 소나 프로젝트"></a><br>
-      <b>SAS signal processing</b><br>
-      <sub>원⁠시 신⁠호 영⁠상 형⁠성 · 항⁠법 오⁠차 민⁠감⁠도 · 딥⁠러⁠닝 보⁠정</sub>
+      <b>SAS Imaging & Autofocus Benchmark</b><br>
+      <sub>Backprojection · GPGA · Deep autofocus<br>NumPy · SciPy · Numba · PyTorch</sub>
     </td>
   </tr>
 </table>
