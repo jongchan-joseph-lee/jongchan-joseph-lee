@@ -96,7 +96,27 @@
 
 ### Publications & Presentations (논⁠문 · 학⁠술⁠발⁠표)
 
-- **Latest** — 황⁠인⁠성\*, 박⁠종⁠진, 김⁠무⁠건, 김⁠운⁠갑, **이⁠종⁠찬**, "해⁠양⁠감⁠시⁠를 위⁠한 무⁠인⁠해⁠양⁠플⁠랫⁠폼 기⁠술⁠개⁠발 및 활⁠용⁠방⁠안," 2026년⁠도 한⁠국⁠음⁠향⁠학⁠회 추⁠계⁠학⁠술⁠발⁠표⁠대⁠회, 구⁠두⁠발⁠표
-- 학⁠술⁠지 논⁠문 4편 (게⁠재 3 · 준⁠비 중 1) · 국⁠내⁠외 학⁠술⁠대⁠회 발⁠표 8건 → <a href="https://jongchan-joseph-lee.github.io/blog/#presentations-%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EB%B0%9C%ED%91%9C">전⁠체 목⁠록</a>
+<details>
+<summary>학⁠술⁠대⁠회 발⁠표 8건 · 학⁠술⁠지 논⁠문 4편 (2021–2026, 최⁠신⁠순)</summary>
+
+**Presentations (학⁠술⁠대⁠회 발⁠표)**
+
+1. 황⁠인⁠성\*, 박⁠종⁠진, 김⁠무⁠건, 김⁠운⁠갑, 이⁠종⁠찬, "해⁠양⁠감⁠시⁠를 위⁠한 무⁠인⁠해⁠양⁠플⁠랫⁠폼 기⁠술⁠개⁠발 및 활⁠용⁠방⁠안," 2026년⁠도 한⁠국⁠음⁠향⁠학⁠회 추⁠계⁠학⁠술⁠발⁠표⁠대⁠회, 구⁠두⁠발⁠표 (공⁠저)
+2. **J. Lee\***, I. Hwang, and C. R. Lee, "Changes in Acoustic Characteristics of Finless Porpoises in Response to Marine Environmental Variability in Gyeonggi Bay," *Proceedings of the 40th Underwater Acoustics Symposium / Spring Meeting of the Acoustical Society of Korea*, Vol. 44, No. 1(s), p. 91, 2025.
+3. **J. Lee\***, I. Hwang, and C. R. Lee, "Seasonal Bio-sonar Activity and Variations in Acoustic Characteristics of Finless Porpoises in Gyeonggi Bay," *The Spring Meeting of the Korean Society of Oceanography (KSO)*, 2025.
+4. **J. Lee\***, S. Jang, H. Lee, I. Kwon, J. S. Khim, and C. R. Lee, "Bio-acoustic characteristics and spatio-temporal distribution of East Asian finless porpoises in the west and south coast of Korea," *International Yellow Sea Ecosystem Symposium*, 2024.
+5. **J. Lee\***, S. Jang, H. Bae, H. Lee, I. Kwon, J. S. Khim, and C. R. Lee, "Bio-acoustic characteristics and spatio-temporal distribution of East Asian finless porpoises and snapping shrimp in the west and south coast of Korea," *International Conference on Underwater Acoustics (ICUA)*, 2024.
+6. **J. Lee\***, H. Bae, C. Lee, and H. Lee, "Comparison of Acoustic Characteristics and Spatiotemporal Distribution of East Asian Finless Porpoises (*Neophocaena asiaeorientalis sunameri*) Appearing in the South and West Coastal Waters of Korea," *The Autumn Meeting of the Korean Society of Oceanography (KSO)*, 2023.
+7. **J. Lee** and W. Y. Lee\*, "Ship noise effects on an Antarctic seal," *The 26th International Symposium on Polar Sciences*, Korea Polar Research Institute, 2021.
+8. **J. Lee**, T. W. Kim, and W. Y. Lee\*, "Ship noise effects on vocal frequency of leopard seal (*Hydrurga leptonyx*) at Terra Nova Bay, Ross Sea, Antarctica," *The Autumn Meeting of the Korean Society of Oceanography (KSO)*, 2021.
+
+**Publications (학⁠술⁠지 논⁠문)**
+
+1. **J. Lee\***, C. R. Lee, H. Lee, I. Kwon, S. Jang, S. J. Park, H. Bae, and J. S. Khim, "Bio-acoustic characteristics and spatiotemporal distribution of East Asian finless porpoises (*Neophocaena asiaeorientalis sunameri*) in the western and southern coasts of Korea: A pilot study," *in preparation*.
+2. Y. T. Son\*, S. Jin, **J. Lee**, M. Kim, J. Y. Byon, H. T. Moon, and C. H. Shin, "Marine-Life-Detection and Density-Estimation Algorithms Based on Underwater Images and Scientific Sonar Systems," *Journal of the Korean Society of Marine Environment & Safety*, Vol. 30, No. 5, pp. 373–386, 2024.
+3. **J. Lee\*** and C. R. Lee, "Methodologies and Applications of Underwater Acoustics for Marine Ecosystem Monitoring and Management," *Korean Journal of Hydrography and Marine Spatial Information*, Vol. 12, No. 2, pp. 57–68, 2023.
+4. H. Chung, **J. Lee**, and W. Y. Lee\*, "A review: marine bio-logging of animal behaviour and ocean environments," *Ocean Science Journal*, Vol. 56, No. 2, pp. 117–131, 2021.
+
+</details>
 
 <sub>배⁠너: Watkins Marine Mammal Sound Database(WHOI) 실⁠제 녹⁠음⁠으⁠로 만⁠든 스⁠펙⁠트⁠로⁠그⁠램. 측⁠정 방⁠법⁠은 웹⁠사⁠이⁠트⁠의 "자⁠료⁠와 측⁠정 방⁠법" 참⁠고.</sub>
