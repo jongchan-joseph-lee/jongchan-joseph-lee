@@ -110,7 +110,7 @@
 1. 황⁠인⁠성\*, 박⁠종⁠진, 김⁠무⁠건, 김⁠운⁠갑, **이⁠종⁠찬**, "해⁠양⁠감⁠시⁠를 위⁠한 무⁠인⁠해⁠양⁠플⁠랫⁠폼 기⁠술⁠개⁠발 및 활⁠용⁠방⁠안," *한⁠국⁠음⁠향⁠학⁠회 추⁠계⁠학⁠술⁠발⁠표⁠대⁠회*, 구⁠두, 2026.
 2. **J. Lee\***, I. Hwang, and C. R. Lee, "Changes in Acoustic Characteristics of Finless Porpoises in Response to Marine Environmental Variability in Gyeonggi Bay," *한⁠국⁠음⁠향⁠학⁠회 춘⁠계⁠학⁠술⁠발⁠표⁠대⁠회*, 구⁠두, 한⁠국⁠음⁠향⁠학⁠회⁠지 44권 1(s)호, 91쪽, 2025.
 3. **J. Lee\***, I. Hwang, and C. R. Lee, "Seasonal Bio-sonar Activity and Variations in Acoustic Characteristics of Finless Porpoises in Gyeonggi Bay," *한⁠국⁠해⁠양⁠학⁠회 춘⁠계⁠학⁠술⁠대⁠회*, 구⁠두, 2025.
-4. 김⁠무⁠건 외, **이⁠종⁠찬**, "항⁠로⁠표⁠지⁠를 활⁠용⁠한 소⁠나⁠기⁠반 해⁠양⁠생⁠물⁠탐⁠지 경⁠보⁠시⁠스⁠템 구⁠축 연⁠구," *한⁠국⁠항⁠해⁠항⁠만⁠학⁠회 추⁠계⁠학⁠술⁠대⁠회*, 포⁠스⁠터, 2024.
+4. 김⁠무⁠건, 김⁠운⁠갑, 장⁠인⁠권, **이⁠종⁠찬**, 진⁠상⁠엽, 변⁠주⁠영, 문⁠형⁠태, 신⁠충⁠훈, "항⁠로⁠표⁠지⁠를 활⁠용⁠한 소⁠나⁠기⁠반 해⁠양⁠생⁠물⁠탐⁠지 경⁠보⁠시⁠스⁠템 구⁠축 연⁠구," *한⁠국⁠항⁠해⁠항⁠만⁠학⁠회 추⁠계⁠학⁠술⁠대⁠회*, 포⁠스⁠터, 한⁠국⁠항⁠해⁠항⁠만⁠학⁠회 학⁠술⁠대⁠회⁠논⁠문⁠집 2024(11), 18–20쪽, 2024.
 5. **J. Lee\***, H. Bae, C. Lee, and H. Lee, "Comparison of Acoustic Characteristics and Spatiotemporal Distribution of East Asian Finless Porpoises (*Neophocaena asiaeorientalis sunameri*) Appearing in the South and West Coastal Waters of Korea," *한⁠국⁠해⁠양⁠학⁠회 추⁠계⁠학⁠술⁠대⁠회*, 구⁠두, 2023.
 6. **J. Lee**, T. W. Kim, and W. Y. Lee\*, "Ship noise effects on vocal frequency of leopard seal (*Hydrurga leptonyx*) at Terra Nova Bay, Ross Sea, Antarctica," *한⁠국⁠해⁠양⁠학⁠회 추⁠계⁠학⁠술⁠대⁠회*, 구⁠두, 2021.
 
