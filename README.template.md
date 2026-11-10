@@ -24,46 +24,24 @@
 하이드로폰 · 소나 계측부터 신호처리, AI 기반 탐지 · 분류, 시스템 통합과 현장 운용까지 다뤄 왔습니다.
 </p>
 
-### Experience (경험)
+### Core Competencies (핵심 역량)
 
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="assets/x_pam.svg" width="56" height="56" alt=""><br>
-      <b>Passive Acoustic Monitoring</b><br>
-      <sub>수동음향 모니터링 · 하이드로폰 계측 · 해양포유류 탐지 · 배경소음 분석</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="assets/x_sonar.svg" width="56" height="56" alt=""><br>
-      <b>Active Sonar Processing</b><br>
-      <sub>능동 소나 신호처리 · 광대역 분할빔 소나 · 실시간 후방산란 처리</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="assets/x_array.svg" width="56" height="56" alt=""><br>
-      <b>Array Signal Processing</b><br>
-      <sub>배열 신호처리 · 희소 배열 설계 · MVDR 빔포밍 · GCC-PHAT</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="assets/x_prop.svg" width="56" height="56" alt=""><br>
-      <b>Propagation Modeling</b><br>
-      <sub>음파 전달 모델링 · PE · Bellhop · 탐지성능 예측</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="assets/x_ai.svg" width="56" height="56" alt=""><br>
-      <b>AI Detection & Classification</b><br>
-      <sub>AI 탐지 · 분류 · YOLO · Whisper · 오디오 표현 모델 평가</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="assets/x_system.svg" width="56" height="56" alt=""><br>
-      <b>System Integration & Test</b><br>
-      <sub>시스템 통합 · 시험 · 부이 · 무인선 · 임베디드 · 수조 · 실해역 시험</sub>
-    </td>
-  </tr>
-</table>
+| 분야 | 핵심 기술 |
+|---|---|
+| **Active Sonar Signal Processing**<br>(능동 소나 신호처리) | CW · LFM(선형주파수변조) 펄스, M-sequence 기반 진폭변조 신호처리, Matched Filtering(정합 필터링) · 펄스 압축, 분할빔 위상차 각도 추정, TS · Sv 후방산란 산출, 해저면 · 생물 신호 분리 |
+| **Sonar Imaging**<br>(소나 영상) | Backprojection(역투영) 영상 형성, Motion Compensation(이동 보상), Autofocus(PGA · 엔트로피 최소화 · 딥러닝), 측면주사 소나 표적 탐지 |
+| **Passive Acoustic Monitoring**<br>(수동음향 모니터링) | 하이드로폰 계류 · 녹음 설계, 발성 · 클릭 탐지 · 분류 · 위치추정(DCL), 신호 특징 측정(지속시간 · 중심 · 첨두 주파수 · 대역폭), 1/3 옥타브 Leq 배경소음 분석 |
+| **Array Signal Processing**<br>(배열 신호처리) | 희소 배열 설계, 공간 앨리어싱 분석, MVDR 적응 빔포밍, GCC-PHAT TDOA 방위 추정 |
+| **Propagation Modeling**<br>(음파 전달 모델링) | PE(포물선 방정식) · Bellhop(음선) 전달손실 계산, 소나 방정식 기반 탐지성능 분포도, 계절별 음속 구조 반영 센서 배치 |
+| **AI Detection & Classification**<br>(AI 탐지 · 분류) | CNN · Transformer 오디오 표현(AST · VGGish · EfficientNet), YOLOv8 · RT-DETR 탐지, 크기 맞춤 증강, 녹음 출처 분리 평가 · FROC · Pd@FA 평가, Whisper STT |
+| **System Integration & Test**<br>(시스템 통합 · 시험) | 센서 · 처리 모듈 통합, 실시간 처리 파이프라인, 임베디드 수집(Raspberry Pi · DAQ), 수조 · 실해역 성능 시험, 운용 매뉴얼 · SOP |
 
-<p align="center"><sub>Python · Julia · MATLAB</sub></p>
+| Tech Stack | |
+|---|---|
+| Languages | Python · Julia · MATLAB · Java · Cython |
+| Signal Processing · AI | NumPy · SciPy · Numba · PyTorch · Ultralytics · scikit-learn |
+| Acoustic Modeling | PE · Bellhop |
+| Hardware | Kongsberg EK80 · BioSonics DT-X · Raspberry Pi 5 + MCC 172 · GRAS 40PH · 하이드로폰 계류 |
 
 ### Open research (공개 연구)
 
@@ -72,17 +50,17 @@
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/marine-mammal-classifier-benchmark"><img src="assets/pam.svg" width="56" height="56" alt="수동음향 프로젝트"></a><br>
       <b>Marine mammal classifier</b><br>
-      <sub>Watkins DB 레퍼런스 표현의 녹음 출처 간 일반화 평가</sub>
+      <sub>녹음 출처 분리 평가에서 종 분류 BA 0.64–0.76 → 0.21–0.33</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/sss-mine-detection-benchmark"><img src="assets/sss.svg" width="56" height="56" alt="측면주사 소나 프로젝트"></a><br>
       <b>Side-scan sonar MLO</b><br>
-      <sub>측면주사 소나 영상의 기뢰유사물체 탐지 · 분류 평가</sub>
+      <sub>미학습 연도 기뢰유사물체 탐지, 크기 맞춤 증강 Pd +13%p</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/SAS_signal_processing"><img src="assets/sas.svg" width="56" height="56" alt="합성개구 소나 프로젝트"></a><br>
       <b>SAS signal processing</b><br>
-      <sub>합성개구 소나 원시 신호의 영상 형성 · 보정 · 탐지 검증</sub>
+      <sub>원시 신호 영상 형성 · 항법 오차 민감도 · 딥러닝 보정</sub>
     </td>
   </tr>
 </table>
