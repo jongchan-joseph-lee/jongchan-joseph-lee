@@ -53,7 +53,7 @@
     <td align="center" width="33%" valign="top">
       <img src="assets/x_ai.svg" width="56" height="56" alt=""><br>
       <b>AI Detection & Classification</b><br>
-      <sub>AST · VGGish · EfficientNet 오디오 표현 평가<br>YOLOv8 · RT-DETR 탐지<br>Source-disjoint 평가 · FROC</sub>
+      <sub>AST · VGGish · EfficientNet 오디오 표현 평가<br>YOLOv8 · RT-DETR 탐지<br>Source-disjoint 평가 · FROC</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_system.svg" width="56" height="56" alt=""><br>
@@ -63,7 +63,6 @@
   </tr>
   <tr>
     <td align="center" valign="middle" colspan="3">
-      <img src="assets/spacer.svg" width="1000" height="1" alt=""><br>
       <img src="assets/sas.svg" width="56" height="56" alt="" align="middle">&nbsp;&nbsp;<b>Sonar Imaging</b>&nbsp;&nbsp;<sub>Backprojection 영상 형성 · Motion compensation · Autofocus (PGA · entropy · DL) · 측면주사 소나 표적 탐지</sub>
     </td>
   </tr>
