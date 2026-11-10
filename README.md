@@ -102,7 +102,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>Fennec Fox Acoustic Monitoring</b><br>
-      <sub>대⁠전⁠오⁠월⁠드<br>EfficientNet-B3 다⁠중⁠음⁠원 분⁠류 · 여⁠우 발⁠성 탐⁠지<br>동⁠물⁠원 관⁠리 시⁠스⁠템 개⁠발 MOU 체⁠결</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
+      <sub>대⁠전⁠오⁠월⁠드<br>EfficientNet-B3 다⁠중⁠음⁠원 분⁠류 · 여⁠우 발⁠성 탐⁠지</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
     </td>
     <td align="center" width="33%" valign="top">
       <b>Tiger Behavior Monitoring</b><br>

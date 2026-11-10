@@ -102,7 +102,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>Fennec Fox Acoustic Monitoring</b><br>
-      <sub>대전오월드<br>EfficientNet-B3 다중음원 분류 · 여우 발성 탐지<br>동물원 관리 시스템 개발 MOU 체결</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
+      <sub>대전오월드<br>EfficientNet-B3 다중음원 분류 · 여우 발성 탐지</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
     </td>
     <td align="center" width="33%" valign="top">
       <b>Tiger Behavior Monitoring</b><br>
