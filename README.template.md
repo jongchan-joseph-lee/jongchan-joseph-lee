@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-### Wildlife Monitoring AI (동물 모니터링 AI · 2025 단기 과제)
+### Animal Monitoring AI (동물 모니터링 AI · 2025 단기 과제)
 
 <table>
   <tr>
@@ -102,11 +102,11 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>Fennec Fox Acoustic Monitoring</b><br>
-      <sub>대전오월드<br>EfficientNet-B3 다중음원 분류 · 여우 발성 탐지<br>동물원 관리 시스템 개발 MOU 체결</sub>
+      <sub>대전오월드<br>EfficientNet-B3 다중음원 분류 · 여우 발성 탐지<br>동물원 관리 시스템 개발 MOU 체결</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
     </td>
     <td align="center" width="33%" valign="top">
       <b>Tiger Behavior Monitoring</b><br>
-      <sub>청주동물원<br>CCTV → 서버 YOLOv8 정밀행동 분류 · 행동반경 Heatmap<br>CVAT 라벨링 도구 제작 · 배포 교육</sub>
+      <sub>청주동물원<br>CCTV → 서버 YOLOv8 정밀행동 분류<br>행동반경 Heatmap<br>CVAT 라벨링 도구 제작 · 배포 교육</sub>
     </td>
   </tr>
 </table>

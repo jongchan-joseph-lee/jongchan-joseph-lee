@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-### Wildlife Monitoring AI (동⁠물 모⁠니⁠터⁠링 AI · 2025 단⁠기 과⁠제)
+### Animal Monitoring AI (동⁠물 모⁠니⁠터⁠링 AI · 2025 단⁠기 과⁠제)
 
 <table>
   <tr>
@@ -102,11 +102,11 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>Fennec Fox Acoustic Monitoring</b><br>
-      <sub>대⁠전⁠오⁠월⁠드<br>EfficientNet-B3 다⁠중⁠음⁠원 분⁠류 · 여⁠우 발⁠성 탐⁠지<br>동⁠물⁠원 관⁠리 시⁠스⁠템 개⁠발 MOU 체⁠결</sub>
+      <sub>대⁠전⁠오⁠월⁠드<br>EfficientNet-B3 다⁠중⁠음⁠원 분⁠류 · 여⁠우 발⁠성 탐⁠지<br>동⁠물⁠원 관⁠리 시⁠스⁠템 개⁠발 MOU 체⁠결</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
     </td>
     <td align="center" width="33%" valign="top">
       <b>Tiger Behavior Monitoring</b><br>
-      <sub>청⁠주⁠동⁠물⁠원<br>CCTV → 서⁠버 YOLOv8 정⁠밀⁠행⁠동 분⁠류 · 행⁠동⁠반⁠경 Heatmap<br>CVAT 라⁠벨⁠링 도⁠구 제⁠작 · 배⁠포 교⁠육</sub>
+      <sub>청⁠주⁠동⁠물⁠원<br>CCTV → 서⁠버 YOLOv8 정⁠밀⁠행⁠동 분⁠류<br>행⁠동⁠반⁠경 Heatmap<br>CVAT 라⁠벨⁠링 도⁠구 제⁠작 · 배⁠포 교⁠육</sub>
     </td>
   </tr>
 </table>
