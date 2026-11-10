@@ -24,65 +24,72 @@
 하이드로폰 · 소나 계측부터 신호처리, AI 기반 탐지 · 분류, 시스템 통합과 현장 운용까지 다뤄 왔습니다.
 </p>
 
-### Experience (경험)
+### Core Competencies (핵심 역량)
 
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_pam.svg" width="56" height="56" alt=""><br>
       <b>Passive Acoustic Monitoring</b><br>
-      <sub>수동음향 모니터링 · 하이드로폰 계측 · 해양포유류 탐지 · 배경소음 분석</sub>
+      <sub>하이드로폰 계류 · 녹음 설계<br>DCL (탐지 · 분류 · 위치추정)<br>발성 특징 측정<br>1/3-octave Leq 배경소음 분석</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_sonar.svg" width="56" height="56" alt=""><br>
       <b>Active Sonar Processing</b><br>
-      <sub>능동 소나 신호처리 · 광대역 분할빔 소나 · 실시간 후방산란 처리</sub>
+      <sub>CW · LFM · M-sequence 진폭변조 신호처리<br>Matched filtering<br>위상차 기반 각도 추정<br>다중주파수 응답 곡선 기반 후방산란 분류</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_array.svg" width="56" height="56" alt=""><br>
       <b>Array Signal Processing</b><br>
-      <sub>배열 신호처리 · 희소 배열 설계 · MVDR 빔포밍 · GCC-PHAT</sub>
+      <sub>Sparse aperture array 설계<br>Spatial aliasing 분석<br>MVDR beamforming<br>GCC-PHAT TDOA 방위 추정</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_prop.svg" width="56" height="56" alt=""><br>
       <b>Propagation Modeling</b><br>
-      <sub>음파 전달 모델링 · PE · Bellhop · 탐지성능 예측</sub>
+      <sub>PE · Bellhop 전달손실 계산<br>Sonar equation 기반 탐지성능 분포도<br>계절별 음속 구조 반영 센서 배치</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_ai.svg" width="56" height="56" alt=""><br>
       <b>AI Detection & Classification</b><br>
-      <sub>AI 탐지 · 분류 · YOLO · Whisper · 오디오 표현 모델 평가</sub>
+      <sub>AST · VGGish · EfficientNet 오디오 표현 평가<br>YOLOv8 · RT-DETR 탐지<br>Source-disjoint 평가 · FROC</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_system.svg" width="56" height="56" alt=""><br>
       <b>System Integration & Test</b><br>
-      <sub>시스템 통합 · 시험 · 부이 · 무인선 · 임베디드 · 수조 · 실해역 시험</sub>
+      <sub>센서 · 처리 모듈 통합<br>실시간 처리 파이프라인<br>Raspberry Pi · DAQ 임베디드 수집<br>수조 · 실해역 성능 시험</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <img src="assets/sas.svg" width="56" height="56" alt=""><br>
+      <b>Sonar Imaging</b><br>
+      <sub>Backprojection 영상 형성 · Motion compensation<br>Autofocus (PGA · entropy · deep learning)<br>측면주사 소나 표적 탐지</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Python · Julia · MATLAB</sub></p>
+<p align="center"><sub>Python · Julia · MATLAB · Java · Cython · PyTorch</sub></p>
 
-### Open research (공개 연구)
+### Side Projects (사이드 프로젝트)
 
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/marine-mammal-classifier-benchmark"><img src="assets/pam.svg" width="56" height="56" alt="수동음향 프로젝트"></a><br>
-      <b>Marine mammal classifier</b><br>
-      <sub>Watkins DB 레퍼런스 표현의 녹음 출처 간 일반화 평가</sub>
+      <b>Marine Mammal Sound Classification Benchmark</b><br>
+      <sub>AST · VGGish · EfficientNet-B3<br>PyTorch · Transformers · scikit-learn</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/sss-mine-detection-benchmark"><img src="assets/sss.svg" width="56" height="56" alt="측면주사 소나 프로젝트"></a><br>
-      <b>Side-scan sonar MLO</b><br>
-      <sub>측면주사 소나 영상의 기뢰유사물체 탐지 · 분류 평가</sub>
+      <b>Side-Scan Sonar Mine Detection Benchmark</b><br>
+      <sub>YOLOv8 · RT-DETR · DINOv2<br>PyTorch · Ultralytics · scikit-learn</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/SAS_signal_processing"><img src="assets/sas.svg" width="56" height="56" alt="합성개구 소나 프로젝트"></a><br>
-      <b>SAS signal processing</b><br>
-      <sub>합성개구 소나 원시 신호의 영상 형성 · 보정 · 탐지 검증</sub>
+      <b>SAS Imaging & Autofocus Benchmark</b><br>
+      <sub>Backprojection · GPGA · Deep autofocus<br>NumPy · SciPy · Numba · PyTorch</sub>
     </td>
   </tr>
 </table>

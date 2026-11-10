@@ -24,65 +24,72 @@
 하⁠이⁠드⁠로⁠폰 · 소⁠나 계⁠측⁠부⁠터 신⁠호⁠처⁠리, AI 기⁠반 탐⁠지 · 분⁠류, 시⁠스⁠템 통⁠합⁠과 현⁠장 운⁠용⁠까⁠지 다⁠뤄 왔⁠습⁠니⁠다.
 </p>
 
-### Experience (경⁠험)
+### Core Competencies (핵⁠심 역⁠량)
 
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_pam.svg" width="56" height="56" alt=""><br>
       <b>Passive Acoustic Monitoring</b><br>
-      <sub>수⁠동⁠음⁠향 모⁠니⁠터⁠링 · 하⁠이⁠드⁠로⁠폰 계⁠측 · 해⁠양⁠포⁠유⁠류 탐⁠지 · 배⁠경⁠소⁠음 분⁠석</sub>
+      <sub>하⁠이⁠드⁠로⁠폰 계⁠류 · 녹⁠음 설⁠계<br>DCL (탐⁠지 · 분⁠류 · 위⁠치⁠추⁠정)<br>발⁠성 특⁠징 측⁠정<br>1/3-octave Leq 배⁠경⁠소⁠음 분⁠석</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_sonar.svg" width="56" height="56" alt=""><br>
       <b>Active Sonar Processing</b><br>
-      <sub>능⁠동 소⁠나 신⁠호⁠처⁠리 · 광⁠대⁠역 분⁠할⁠빔 소⁠나 · 실⁠시⁠간 후⁠방⁠산⁠란 처⁠리</sub>
+      <sub>CW · LFM · M-sequence 진⁠폭⁠변⁠조 신⁠호⁠처⁠리<br>Matched filtering<br>위⁠상⁠차 기⁠반 각⁠도 추⁠정<br>다⁠중⁠주⁠파⁠수 응⁠답 곡⁠선 기⁠반 후⁠방⁠산⁠란 분⁠류</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_array.svg" width="56" height="56" alt=""><br>
       <b>Array Signal Processing</b><br>
-      <sub>배⁠열 신⁠호⁠처⁠리 · 희⁠소 배⁠열 설⁠계 · MVDR 빔⁠포⁠밍 · GCC-PHAT</sub>
+      <sub>Sparse aperture array 설⁠계<br>Spatial aliasing 분⁠석<br>MVDR beamforming<br>GCC-PHAT TDOA 방⁠위 추⁠정</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_prop.svg" width="56" height="56" alt=""><br>
       <b>Propagation Modeling</b><br>
-      <sub>음⁠파 전⁠달 모⁠델⁠링 · PE · Bellhop · 탐⁠지⁠성⁠능 예⁠측</sub>
+      <sub>PE · Bellhop 전⁠달⁠손⁠실 계⁠산<br>Sonar equation 기⁠반 탐⁠지⁠성⁠능 분⁠포⁠도<br>계⁠절⁠별 음⁠속 구⁠조 반⁠영 센⁠서 배⁠치</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_ai.svg" width="56" height="56" alt=""><br>
       <b>AI Detection & Classification</b><br>
-      <sub>AI 탐⁠지 · 분⁠류 · YOLO · Whisper · 오⁠디⁠오 표⁠현 모⁠델 평⁠가</sub>
+      <sub>AST · VGGish · EfficientNet 오⁠디⁠오 표⁠현 평⁠가<br>YOLOv8 · RT-DETR 탐⁠지<br>Source-disjoint 평⁠가 · FROC</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <img src="assets/x_system.svg" width="56" height="56" alt=""><br>
       <b>System Integration & Test</b><br>
-      <sub>시⁠스⁠템 통⁠합 · 시⁠험 · 부⁠이 · 무⁠인⁠선 · 임⁠베⁠디⁠드 · 수⁠조 · 실⁠해⁠역 시⁠험</sub>
+      <sub>센⁠서 · 처⁠리 모⁠듈 통⁠합<br>실⁠시⁠간 처⁠리 파⁠이⁠프⁠라⁠인<br>Raspberry Pi · DAQ 임⁠베⁠디⁠드 수⁠집<br>수⁠조 · 실⁠해⁠역 성⁠능 시⁠험</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <img src="assets/sas.svg" width="56" height="56" alt=""><br>
+      <b>Sonar Imaging</b><br>
+      <sub>Backprojection 영⁠상 형⁠성 · Motion compensation<br>Autofocus (PGA · entropy · deep learning)<br>측⁠면⁠주⁠사 소⁠나 표⁠적 탐⁠지</sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Python · Julia · MATLAB</sub></p>
+<p align="center"><sub>Python · Julia · MATLAB · Java · Cython · PyTorch</sub></p>
 
-### Open research (공⁠개 연⁠구)
+### Side Projects (사⁠이⁠드 프⁠로⁠젝⁠트)
 
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/marine-mammal-classifier-benchmark"><img src="assets/pam.svg" width="56" height="56" alt="수동음향 프로젝트"></a><br>
-      <b>Marine mammal classifier</b><br>
-      <sub>Watkins DB 레⁠퍼⁠런⁠스 표⁠현⁠의 녹⁠음 출⁠처 간 일⁠반⁠화 평⁠가</sub>
+      <b>Marine Mammal Sound Classification Benchmark</b><br>
+      <sub>AST · VGGish · EfficientNet-B3<br>PyTorch · Transformers · scikit-learn</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/sss-mine-detection-benchmark"><img src="assets/sss.svg" width="56" height="56" alt="측면주사 소나 프로젝트"></a><br>
-      <b>Side-scan sonar MLO</b><br>
-      <sub>측⁠면⁠주⁠사 소⁠나 영⁠상⁠의 기⁠뢰⁠유⁠사⁠물⁠체 탐⁠지 · 분⁠류 평⁠가</sub>
+      <b>Side-Scan Sonar Mine Detection Benchmark</b><br>
+      <sub>YOLOv8 · RT-DETR · DINOv2<br>PyTorch · Ultralytics · scikit-learn</sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/jongchan-joseph-lee/SAS_signal_processing"><img src="assets/sas.svg" width="56" height="56" alt="합성개구 소나 프로젝트"></a><br>
-      <b>SAS signal processing</b><br>
-      <sub>합⁠성⁠개⁠구 소⁠나 원⁠시 신⁠호⁠의 영⁠상 형⁠성 · 보⁠정 · 탐⁠지 검⁠증</sub>
+      <b>SAS Imaging & Autofocus Benchmark</b><br>
+      <sub>Backprojection · GPGA · Deep autofocus<br>NumPy · SciPy · Numba · PyTorch</sub>
     </td>
   </tr>
 </table>
