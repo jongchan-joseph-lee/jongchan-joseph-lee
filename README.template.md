@@ -101,7 +101,7 @@
 
 **Presentations (학술대회 발표)**
 
-1. 황인성\*, 박종진, 김무건, 김운갑, 이종찬, "해양감시를 위한 무인해양플랫폼 기술개발 및 활용방안," 2026년도 한국음향학회 추계학술발표대회, 구두발표 (공저)
+1. I. Hwang\*, J. Park, M. Kim, U. Kim, and **J. Lee**, "Development and Applications of Unmanned Marine Platform Technology for Ocean Surveillance," *The Autumn Meeting of the Acoustical Society of Korea (ASK)*, 2026 (oral presentation, co-author).
 2. **J. Lee\***, I. Hwang, and C. R. Lee, "Changes in Acoustic Characteristics of Finless Porpoises in Response to Marine Environmental Variability in Gyeonggi Bay," *Proceedings of the 40th Underwater Acoustics Symposium / Spring Meeting of the Acoustical Society of Korea*, Vol. 44, No. 1(s), p. 91, 2025.
 3. **J. Lee\***, I. Hwang, and C. R. Lee, "Seasonal Bio-sonar Activity and Variations in Acoustic Characteristics of Finless Porpoises in Gyeonggi Bay," *The Spring Meeting of the Korean Society of Oceanography (KSO)*, 2025.
 4. **J. Lee\***, S. Jang, H. Lee, I. Kwon, J. S. Khim, and C. R. Lee, "Bio-acoustic characteristics and spatio-temporal distribution of East Asian finless porpoises in the west and south coast of Korea," *International Yellow Sea Ecosystem Symposium*, 2024.
