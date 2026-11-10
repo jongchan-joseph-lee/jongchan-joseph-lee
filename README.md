@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-### Animal Monitoring AI (동⁠물 모⁠니⁠터⁠링 AI · 2025 단⁠기 과⁠제)
+### Animal Sound & Behavior Monitoring AI (동⁠물 음⁠향 · 행⁠동 모⁠니⁠터⁠링 AI · 2025 단⁠기 과⁠제)
 
 <table>
   <tr>

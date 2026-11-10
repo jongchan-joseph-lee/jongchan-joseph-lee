@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-### Animal Monitoring AI (동물 모니터링 AI · 2025 단기 과제)
+### Animal Sound & Behavior Monitoring AI (동물 음향 · 행동 모니터링 AI · 2025 단기 과제)
 
 <table>
   <tr>
