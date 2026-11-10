@@ -62,10 +62,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="3">
-      <img src="assets/sas.svg" width="56" height="56" alt=""><br>
-      <b>Sonar Imaging</b><br>
-      <sub>Backprojection 영상 형성 · Motion compensation<br>Autofocus (PGA · entropy · deep learning)<br>측면주사 소나 표적 탐지</sub>
+    <td align="center" valign="middle" colspan="3">
+      <img src="assets/spacer.svg" width="1000" height="1" alt=""><br>
+      <img src="assets/sas.svg" width="56" height="56" alt="" align="middle">&nbsp;&nbsp;<b>Sonar Imaging</b>&nbsp;&nbsp;<sub>Backprojection 영상 형성 · Motion compensation · Autofocus (PGA · entropy · DL) · 측면주사 소나 표적 탐지</sub>
     </td>
   </tr>
 </table>
