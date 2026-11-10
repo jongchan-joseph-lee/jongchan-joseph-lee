@@ -94,4 +94,9 @@
   </tr>
 </table>
 
+### Publications & Presentations (논⁠문 · 학⁠술⁠발⁠표)
+
+- **Latest** — 황⁠인⁠성\*, 박⁠종⁠진, 김⁠무⁠건, 김⁠운⁠갑, **이⁠종⁠찬**, "해⁠양⁠감⁠시⁠를 위⁠한 무⁠인⁠해⁠양⁠플⁠랫⁠폼 기⁠술⁠개⁠발 및 활⁠용⁠방⁠안," 2026년⁠도 한⁠국⁠음⁠향⁠학⁠회 추⁠계⁠학⁠술⁠발⁠표⁠대⁠회, 구⁠두⁠발⁠표
+- 학⁠술⁠지 논⁠문 4편 (게⁠재 3 · 준⁠비 중 1) · 국⁠내⁠외 학⁠술⁠대⁠회 발⁠표 8건 → <a href="https://jongchan-joseph-lee.github.io/blog/#presentations-%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EB%B0%9C%ED%91%9C">전⁠체 목⁠록</a>
+
 <sub>배⁠너: Watkins Marine Mammal Sound Database(WHOI) 실⁠제 녹⁠음⁠으⁠로 만⁠든 스⁠펙⁠트⁠로⁠그⁠램. 측⁠정 방⁠법⁠은 웹⁠사⁠이⁠트⁠의 "자⁠료⁠와 측⁠정 방⁠법" 참⁠고.</sub>

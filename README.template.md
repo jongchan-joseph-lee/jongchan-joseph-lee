@@ -94,4 +94,9 @@
   </tr>
 </table>
 
+### Publications & Presentations (논문 · 학술발표)
+
+- **Latest** — 황인성\*, 박종진, 김무건, 김운갑, **이종찬**, "해양감시를 위한 무인해양플랫폼 기술개발 및 활용방안," 2026년도 한국음향학회 추계학술발표대회, 구두발표
+- 학술지 논문 4편 (게재 3 · 준비 중 1) · 국내외 학술대회 발표 8건 → <a href="https://jongchan-joseph-lee.github.io/blog/#presentations-%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EB%B0%9C%ED%91%9C">전체 목록</a>
+
 <sub>배너: Watkins Marine Mammal Sound Database(WHOI) 실제 녹음으로 만든 스펙트로그램. 측정 방법은 웹사이트의 "자료와 측정 방법" 참고.</sub>
