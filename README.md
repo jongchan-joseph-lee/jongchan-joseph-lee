@@ -92,6 +92,25 @@
   </tr>
 </table>
 
+### Wildlife Monitoring AI (동⁠물 모⁠니⁠터⁠링 AI · 2025 단⁠기 과⁠제)
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>Bird Sound Monitoring</b><br>
+      <sub>북⁠한⁠산⁠국⁠립⁠공⁠원 기⁠후⁠변⁠화⁠스⁠테⁠이⁠션<br>EfficientNet-B3 생⁠물⁠음⁠향 분⁠류<br>Score 기⁠반 자⁠동 Annotation · 인⁠터⁠랙⁠티⁠브 라⁠벨⁠링</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Fennec Fox Acoustic Monitoring</b><br>
+      <sub>대⁠전⁠오⁠월⁠드<br>EfficientNet-B3 다⁠중⁠음⁠원 분⁠류 · 여⁠우 발⁠성 탐⁠지<br>동⁠물⁠원 관⁠리 시⁠스⁠템 개⁠발 MOU 체⁠결</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Tiger Behavior Monitoring</b><br>
+      <sub>청⁠주⁠동⁠물⁠원<br>CCTV → 서⁠버 YOLOv8 정⁠밀⁠행⁠동 분⁠류 · 행⁠동⁠반⁠경 Heatmap<br>CVAT 라⁠벨⁠링 도⁠구 제⁠작 · 배⁠포 교⁠육</sub>
+    </td>
+  </tr>
+</table>
+
 ### Publications & Presentations (논⁠문 · 학⁠술⁠발⁠표)
 
 <details>

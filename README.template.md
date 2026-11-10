@@ -92,6 +92,25 @@
   </tr>
 </table>
 
+### Wildlife Monitoring AI (동물 모니터링 AI · 2025 단기 과제)
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>Bird Sound Monitoring</b><br>
+      <sub>북한산국립공원 기후변화스테이션<br>EfficientNet-B3 생물음향 분류<br>Score 기반 자동 Annotation · 인터랙티브 라벨링</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Fennec Fox Acoustic Monitoring</b><br>
+      <sub>대전오월드<br>EfficientNet-B3 다중음원 분류 · 여우 발성 탐지<br>동물원 관리 시스템 개발 MOU 체결</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Tiger Behavior Monitoring</b><br>
+      <sub>청주동물원<br>CCTV → 서버 YOLOv8 정밀행동 분류 · 행동반경 Heatmap<br>CVAT 라벨링 도구 제작 · 배포 교육</sub>
+    </td>
+  </tr>
+</table>
+
 ### Publications & Presentations (논문 · 학술발표)
 
 <details>
