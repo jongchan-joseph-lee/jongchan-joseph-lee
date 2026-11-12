@@ -142,4 +142,4 @@
 
 <sub>배너: Watkins Marine Mammal Sound Database(WHOI) 실제 녹음으로 만든 스펙트로그램. 측정 방법은 웹사이트의 "자료와 측정 방법" 참고.</sub>
 
-<img src="https://tally.yuki.sh/hits/jongchan-joseph-lee/profile.svg" width="1" height="1" alt="">
+<img src="https://tally.yuki.sh/counters/jongchan-joseph-lee/profile/badge" width="1" height="1" alt="">

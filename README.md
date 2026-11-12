@@ -142,4 +142,4 @@
 
 <sub>배⁠너: Watkins Marine Mammal Sound Database(WHOI) 실⁠제 녹⁠음⁠으⁠로 만⁠든 스⁠펙⁠트⁠로⁠그⁠램. 측⁠정 방⁠법⁠은 웹⁠사⁠이⁠트⁠의 "자⁠료⁠와 측⁠정 방⁠법" 참⁠고.</sub>
 
-<img src="https://tally.yuki.sh/hits/jongchan-joseph-lee/profile.svg" width="1" height="1" alt="">
+<img src="https://tally.yuki.sh/counters/jongchan-joseph-lee/profile/badge" width="1" height="1" alt="">
