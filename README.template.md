@@ -92,24 +92,73 @@
   </tr>
 </table>
 
-### Animal Sound & Behavior Monitoring AI (동물 음향 · 행동 모니터링 AI · 2025 단기 과제)
+### Work Projects (실무 프로젝트)
 
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <b>Bird Sound Monitoring</b><br>
-      <sub>북한산국립공원 기후변화스테이션<br>EfficientNet-B3 생물음향 분류<br>Score 기반 자동 Annotation · 인터랙티브 라벨링</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>Fennec Fox Acoustic Monitoring</b><br>
-      <sub>대전오월드<br>EfficientNet-B3 다중음원 분류 · 여우 발성 탐지</sub><br><img src="assets/spacer.svg" width="1000" height="1" alt="">
-    </td>
-    <td align="center" width="33%" valign="top">
-      <b>Tiger Behavior Monitoring</b><br>
-      <sub>청주동물원<br>CCTV → 서버 YOLOv8 정밀행동 분류<br>행동반경 Heatmap<br>CVAT 라벨링 도구 제작 · 배포 교육</sub>
-    </td>
-  </tr>
-</table>
+<sub>㈜지오시스템리서치 수행 과제 (2022 – 현재, 최신순). 제목을 누르면 펼쳐집니다.</sub>
+
+<details>
+<summary><b>고품질 준실시간 해양그리드 데이터서비스 체계 개발</b> &nbsp;|&nbsp; 해양수산부 – 경북대학교 &nbsp;|&nbsp; 2025 – 현재</summary>
+
+- **역할** 소나 신호처리 개발, 센서 통합 및 시운전, 성능 평가 지원
+- **내용** 광대역 다중주파수 분할빔 소나 설치 및 시운전, 실시간 후방산란 분석, 이상탐지 기반 해저면 및 해양생물 신호 분리, 1D-TCN 해저면 탐지 및 최적화
+- **도구** Python, PyTorch, 광대역 분할빔 소나, 무인선(USV)
+- **성과** 분석 프로그램 개발 완료, 해상 시운전 진행 중, 학술대회 구두발표 공저 1건
+
+</details>
+
+<details>
+<summary><b>침수재난 요구조자 탐색 및 구조용 수륙양용 장비</b> &nbsp;|&nbsp; 행정안전부 – KEIT &nbsp;|&nbsp; 2025 – 2026</summary>
+
+- **역할** 음향 탐색 모듈 개발, 센서 임베디드 통합, 성능 시험 및 평가
+- **내용** 4채널 마이크로폰 배열 설계 및 임베디드 구현, MVDR 적응 빔형성 잡음 제어, GCC-PHAT 방위 추정, 음성 인식(STT) 및 안내(TTS)
+- **도구** Python, Cython, Raspberry Pi 5, MCC 172 DAQ, Whisper
+- **성과** 실내 성능시험 완료, 배열 간격 및 오경보 개선 방안 도출
+
+</details>
+
+<details>
+<summary><b>25-N 연안 해저환경 조사</b> &nbsp;|&nbsp; 대한민국 해군 &nbsp;|&nbsp; 2025</summary>
+
+- **역할** 음향 분야 단독 수행 (계측, 분석, 모델링, 성과품 납품)
+- **내용** 하이드로폰 계류 및 배경소음 분석, 계절별 소음 조건 분류, PE 및 Bellhop 기반 탐지 성능 분석
+- **도구** Python, PE, Bellhop
+- **성과** 탐지 성능 분포도 및 모델 입력자료 납품
+
+</details>
+
+<details>
+<summary><b>생물음향 및 영상 AI 모니터링 (3건)</b> &nbsp;|&nbsp; 북한산국립공원, 대전오월드, 청주동물원 &nbsp;|&nbsp; 2025</summary>
+
+- **역할** AI 모델 적용 및 분석 파이프라인 개발, 라벨링 도구 구축 및 사용자 교육
+- **내용** 새소리 및 사막여우 발성 다중음원 분류와 자동 주석 생성, 호랑이 CCTV 영상 행동 분류 및 행동반경 히트맵, CVAT 라벨링 도구 구축 및 사용 교육
+- **도구** Python, Google Perch (EfficientNet-B3), YOLOv8, CVAT
+- **성과** 현장 녹음 및 영상 자료 적용 시범 시스템 구축
+
+</details>
+
+<details>
+<summary><b>원전 취수구 유입 해양생물 실시간 감시 및 경보체계</b> &nbsp;|&nbsp; 한국수력원자력 &nbsp;|&nbsp; 2022 – 현재</summary>
+
+- **역할** 신호처리 알고리즘 개발, 시스템 통합, 성능 시험 및 평가, 현장 운용 및 기술지원
+- **내용** 분할빔 소나 실시간 후방산란 처리, 음향 및 영상 검출 결합 경보 판단, Bellhop 기반 센서 배치, 수조 및 해상 성능시험
+- **도구** Python, Java, Bellhop, BioSonics DT-X, Kongsberg EK80
+- **성과** 현장 납품 및 운용 (2025년부터), 학술지 논문 공저 1편, 프로그램 저작권 1건
+
+</details>
+
+<details>
+<summary><b>기타 과제 6건</b> &nbsp;|&nbsp; 교육 · 조사 · 연구 용역</summary>
+
+| 기간 | 과제 | 발주처 | 담당 |
+|---|---|---|---|
+| 2025 – 2026 | 해양 연구장비 활용 교육 및 자격검정 과정 | 해양환경공단 | 하이드로폰 운용, PAM 기반 음원 식별 강의 |
+| 2025 | 해양 HNS 배출 관리 및 환경영향평가 체계 구축 | 선박해양플랜트연구소 | 사고 사례 및 평가 체계 검토 |
+| 2025 | 강원 고성 해양보호구역 서식지 조사 | 해양환경공단 | 해양포유류 음향 자료 취득 및 분석 |
+| 2025 | 강릉 · 고성 해양생물 환경 및 어업정보 구축 | 해양환경공단 | 배경소음 및 해양포유류 발성 조사 |
+| 2024 | 서해 내만 상괭이 서식지 음향조사 | 국립수산과학원 고래연구소 | 클릭 탐지, 분류, 위치추정 |
+| 2023 – 2024 | 과학적 해양환경영향평가 기술 개발 | 해양수산과학기술진흥원 | 생물음향 신호처리, 개체군 조사 |
+
+</details>
 
 ### Publications & Presentations (논문 · 학술발표)
 
