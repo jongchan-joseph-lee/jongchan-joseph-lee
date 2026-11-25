@@ -6,7 +6,7 @@
 <h1 align="center">이⁠종⁠찬 Jongchan Lee</h1>
 
 <p align="center">
-  <b>Underwater Acoustic Engineer</b> (수⁠중⁠음⁠향 시⁠스⁠템 엔⁠지⁠니⁠어) &nbsp;|&nbsp; 만 32세<br>
+  <b>Underwater Acoustic Engineer</b> (수⁠중⁠음⁠향 시⁠스⁠템 엔⁠지⁠니⁠어) &nbsp;|&nbsp; 만 33세<br>
   ㈜지⁠오⁠시⁠스⁠템⁠리⁠서⁠치 시⁠스⁠템⁠개⁠발⁠부 전⁠임⁠연⁠구⁠원 (2022.05 – 현⁠재)<br>
   <b>수⁠중⁠음⁠향 기⁠반 엔⁠지⁠니⁠어⁠링 실⁠무 경⁠험 4년 6개⁠월</b>
 </p>
